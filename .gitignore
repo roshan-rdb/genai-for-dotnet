@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/genai-dotnet/.vs
+/genai-dotnet/TextCompletion/bin/Debug/net10.0
+/genai-dotnet/TextCompletion/obj
