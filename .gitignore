@@ -8,3 +8,5 @@
 /genai-dotnet/TextCompletion/obj
 /genai-dotnet/TextCompletion_Ollama/bin/Debug/net10.0
 /genai-dotnet/TextCompletion_Ollama/obj
+/genai-dotnet/FunctionCall/bin/Debug/net10.0
+/genai-dotnet/FunctionCall/obj
