@@ -16,3 +16,17 @@
 /genai-dotnet/VectorSearch/obj
 /genai-dotnet/VectorSearch_Ollama/bin/Debug/net10.0
 /genai-dotnet/VectorSearch_Ollama/obj
+/genai-dotnet/ChatApp_Rag/bin/Debug/net10.0
+/genai-dotnet/ChatApp_Rag/obj
+/genai-dotnet/ChatApp_Rag/Properties/launchSettings.json
+/genai-dotnet/ChatApp_Rag/wwwroot/Data
+/genai-dotnet/ChatApp_Rag_Ollama
+/genai-dotnet/ChatApp_Rag_Qdrant/ChatApp_Rag_Qdrant.AppHost/bin/Debug/net10.0
+/genai-dotnet/ChatApp_Rag_Qdrant/ChatApp_Rag_Qdrant.AppHost/obj
+/genai-dotnet/ChatApp_Rag_Qdrant/ChatApp_Rag_Qdrant.AppHost/appsettings.Development.json
+/genai-dotnet/ChatApp_Rag_Qdrant/ChatApp_Rag_Qdrant.AppHost/appsettings.json
+/genai-dotnet/ChatApp_Rag_Qdrant/ChatApp_Rag_Qdrant.ServiceDefaults/bin/Debug/net10.0
+/genai-dotnet/ChatApp_Rag_Qdrant/ChatApp_Rag_Qdrant.ServiceDefaults/obj
+/genai-dotnet/ChatApp_Rag_Qdrant/ChatApp_Rag_Qdrant.Web/bin/Debug/net10.0
+/genai-dotnet/ChatApp_Rag_Qdrant/ChatApp_Rag_Qdrant.Web/obj
+/genai-dotnet/ChatApp_Rag_Qdrant/ChatApp_Rag_Qdrant.Web/Properties/launchSettings.json

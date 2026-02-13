@@ -9,4 +9,10 @@
     <Project Path="VectorSearch/VectorSearch.csproj" Id="9a720df7-231c-4f0f-a025-6f508e3d41f3" />
     <Project Path="VectorSearch_Ollama/VectorSearch_Ollama.csproj" Id="d44d2eec-354b-49fd-a374-85735bfc7ade" />
   </Folder>
+  <Folder Name="/section7_rag/">
+    <Project Path="ChatApp_Rag/ChatApp_Rag.csproj" />
+    <Project Path="ChatApp_Rag_Qdrant/ChatApp_Rag_Qdrant.AppHost/ChatApp_Rag_Qdrant.AppHost.csproj" />
+    <Project Path="ChatApp_Rag_Qdrant/ChatApp_Rag_Qdrant.ServiceDefaults/ChatApp_Rag_Qdrant.ServiceDefaults.csproj" />
+    <Project Path="ChatApp_Rag_Qdrant/ChatApp_Rag_Qdrant.Web/ChatApp_Rag_Qdrant.Web.csproj" />
+  </Folder>
 </Solution>
