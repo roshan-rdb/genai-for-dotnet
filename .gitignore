@@ -12,3 +12,7 @@
 /genai-dotnet/FunctionCall/obj
 /genai-dotnet/Embeddings/bin/Debug/net10.0
 /genai-dotnet/Embeddings/obj
+/genai-dotnet/VectorSearch/bin/Debug/net10.0
+/genai-dotnet/VectorSearch/obj
+/genai-dotnet/VectorSearch_Ollama/bin/Debug/net10.0
+/genai-dotnet/VectorSearch_Ollama/obj
