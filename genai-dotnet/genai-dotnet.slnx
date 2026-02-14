@@ -15,4 +15,8 @@
     <Project Path="ChatApp_Rag_Qdrant/ChatApp_Rag_Qdrant.ServiceDefaults/ChatApp_Rag_Qdrant.ServiceDefaults.csproj" />
     <Project Path="ChatApp_Rag_Qdrant/ChatApp_Rag_Qdrant.Web/ChatApp_Rag_Qdrant.Web.csproj" />
   </Folder>
+  <Folder Name="/section8_vision/">
+    <Project Path="ImageAnalysis/ImageAnalysis.csproj" Id="4ee250ff-a7c4-47e4-b619-1ed5d9279237" />
+    <Project Path="TraficCamAnalysis/TraficCamAnalysis.csproj" Id="2df57b6e-59e2-4d4f-91d0-4012b0e609ff" />
+  </Folder>
 </Solution>
